@@ -4,6 +4,4 @@ Javascript Trivia game with multiple choice options. Players have a limited amou
 
 Try it here: https://finian71.github.io/TriviaGame/ 
 
-https://github.com/finian71/TriviaGame/blob/master/assets/images/screenshot%202.png
-
-https://github.com/finian71/TriviaGame/blob/master/assets/images/screenshot%202.png
+/images/screenshot 1.png
