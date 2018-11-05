@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: black;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.container {
+  padding-bottom: 30px;
+}
+
+.answer {
+  border: beige 2px solid;
+  padding: 5px;
+}
+
+#title {
+  font-family: 'Ultra', serif;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
+
+.jumbotron {
+  padding: 2rem 1rem 0rem 1rem;
+}
+
+#start {
+  margin: 1rem;
+}
